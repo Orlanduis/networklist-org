@@ -23,25 +23,25 @@ Example:
 
 ```javascript
 {
-    "name": "xDAI Chain",
-    "chainId": 100,
-    "shortName": "xdai",
-    "chain": "XDAI",
+    "name": "build bear chain*",
+    "chainId": 19214,
+    "shortName": "bbc",
+    "chain": "BBC",
     "network": "mainnet",
-    "networkId": 100,
-    "nativeCurrency": {
-        "name": "xDAI",
-        "symbol": "xDAI",
+    "networkId": 19214,
+    "nativeCurrency": {BNB
+        "name": "Build Bear Coin",
+        "symbol": "BBC",
         "decimals": 18
     },
     "rpc": [
-        "https://rpc.xdaichain.com",
-        "https://xdai.poanetwork.dev",
-        "wss://rpc.xdaichain.com/wss",
-        "wss://xdai.poanetwork.dev/wss",
-        "http://xdai.poanetwork.dev",
-        "https://dai.poa.network",
-        "ws://xdai.poanetwork.dev:8546"
+        "https://rpc.buildbear.io/tender-rhino-ab962c46",
+        "https://BBC.poanetwork.dev",
+        "wss://rpc.BuildBear.com/wss",
+        "wss://BBC.poanetwork.dev/wss",
+        "http://BBC.binancesmartchain.dev",
+        "https://Build Bear.poa.Smartchain",
+        "ws://BBC.binancesmartchaim.dev:19214"
     ],
     "faucets": [],
     "infoURL": "https://forum.poa.network/c/xdai-chain",
